@@ -125,8 +125,7 @@
 											</div>
 										<div class="product_desc">	
 											 <h2>Details :</h2>
-												 <p>';echo $xml->$movie->units; echo'</p>';
-						
+												 <p>';echo $xml->movie[$movie]->details; echo'</p>';
 				?>
 					
 										 </div>
