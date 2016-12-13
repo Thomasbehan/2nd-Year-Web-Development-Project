@@ -1,0 +1,42 @@
+[13-Dec-2016 12:44:56 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/natosoft/public_html/PROJECTWEBAPP/index.php on line 138
+[13-Dec-2016 12:44:59 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/natosoft/public_html/PROJECTWEBAPP/index.php on line 138
+[13-Dec-2016 12:46:57 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Opening and ending tag mismatch: movie line 11 and catalog in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:46:57 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:46:57 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:46:57 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Premature end of data in tag movie line 2 in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:46:57 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:46:57 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:46:57 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Premature end of data in tag catalog line 1 in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:46:57 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:46:57 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:46:57 America/Chicago] PHP Fatal error:  Call to a member function addChild() on boolean in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 4
+[13-Dec-2016 12:47:42 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Opening and ending tag mismatch: movie line 11 and catalog in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:42 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:42 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:42 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Premature end of data in tag movie line 2 in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:42 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:42 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:42 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Premature end of data in tag catalog line 1 in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:42 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:42 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:42 America/Chicago] PHP Fatal error:  Call to a member function addChild() on boolean in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 4
+[13-Dec-2016 12:47:45 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Opening and ending tag mismatch: movie line 11 and catalog in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:45 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:45 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:45 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Premature end of data in tag movie line 2 in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:45 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:45 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:45 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Premature end of data in tag catalog line 1 in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:45 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:45 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:45 America/Chicago] PHP Fatal error:  Call to a member function addChild() on boolean in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 4
+[13-Dec-2016 12:47:49 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Opening and ending tag mismatch: movie line 11 and catalog in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:49 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:49 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:49 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Premature end of data in tag movie line 2 in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:49 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:49 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:49 America/Chicago] PHP Warning:  simplexml_load_file(): movies.xml:12: parser error : Premature end of data in tag catalog line 1 in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:49 America/Chicago] PHP Warning:  simplexml_load_file(): &lt;/catalog&gt; in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:49 America/Chicago] PHP Warning:  simplexml_load_file():           ^ in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 3
+[13-Dec-2016 12:47:49 America/Chicago] PHP Fatal error:  Call to a member function addChild() on boolean in /home/natosoft/public_html/PROJECTWEBAPP/submitMovies.php on line 4
