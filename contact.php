@@ -1,12 +1,7 @@
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE HTML>
 <head>
-<title>Free Movies Store Website Template | Contact :: w3layouts</title>
+<title>Movies Store | Contact</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
@@ -20,18 +15,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="wrap">
 				<div class="nav_list">
 					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li><a href="contact.html">Sitemap</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="contact.php">Sitemap</a></li>
+						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 					<div class="account_desc">
 						<ul>
-							<li><a href="contact.html">Register</a></li>
-							<li><a href="contact.html">Login</a></li>
-							<li><a href="preview.html">Delivery</a></li>
-							<li><a href="#">Checkout</a></li>
-							<li><a href="#">My Account</a></li>
+							<li><a href="submit.php">Sell your Movie!</a></li>
 						</ul>
 					</div>
 				<div class="clear"></div>
@@ -40,7 +31,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   	  		<div class="wrap">
 				<div class="header_top">
 					<div class="logo">
-						<a href="index.html"><img src="images/logo.png" alt="" /></a>
+						<a href="index.php"><img src="images/logo.png" alt="" /></a>
 					</div>
 						<div class="header_top_right">
 						  <div class="cart">
@@ -92,7 +83,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
      <div class="content">
      	<div class="content_top">
     		<div class="back-links">
-    		<p><a href="index.html">Home</a> &gt;&gt;&gt;&gt; <a href="#" class="active">Contact</a></p>
+    		<p><a href="index.php">Home</a> &gt;&gt;&gt;&gt; <a href="#" class="active">Contact</a></p>
     	    </div>
     		<div class="clear"></div>
     	</div>
@@ -100,7 +91,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="col span_2_of_3">
 				  <div class="contact-form">
 				  	<h2>Contact Us</h2>
-					    <form method="post" action="contact-post.html">
+					    <form method="post" action="contact-post.php">
 					    	<div>
 						    	<span><label>Name</label></span>
 						    	<span><input name="userName" type="text" class="textbox" ></span>
@@ -155,7 +146,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<li><a href="#">Customer Service</a></li>
 						<li><a href="#">Advanced Search</a></li>
 						<li><a href="#">Orders and Returns</a></li>
-						<li><a href="contact.html">Contact Us</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</div>
 				<div class="col_1_of_4 span_1_of_4">
@@ -164,18 +155,18 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<li><a href="#">About Us</a></li>
 						<li><a href="#">Customer Service</a></li>
 						<li><a href="#">Privacy Policy</a></li>
-						<li><a href="contact.html">Site Map</a></li>
+						<li><a href="contact.php">Site Map</a></li>
 						<li><a href="#">Search Terms</a></li>
 						</ul>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<h4>My account</h4>
 						<ul>
-							<li><a href="contact.html">Sign In</a></li>
-							<li><a href="index.html">View Cart</a></li>
+							<li><a href="contact.php">Sign In</a></li>
+							<li><a href="index.php">View Cart</a></li>
 							<li><a href="#">My Wishlist</a></li>
 							<li><a href="#">Track My Order</a></li>
-							<li><a href="contact.html">Help</a></li>
+							<li><a href="contact.php">Help</a></li>
 						</ul>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
@@ -197,7 +188,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</div>
 			</div>
 			 <div class="copy_right">
-				<p>Company Name © All rights Reseverd | Design by  <a href="http://w3layouts.com">W3Layouts</a> </p>
+				<p>Company MovieStore © All rights Reseverd | Design by <a href="https://github.com/thomasbehan">Thomas Behan</a> </p>
+
 		   </div>			
         </div>
     </div>

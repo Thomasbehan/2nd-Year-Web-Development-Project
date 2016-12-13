@@ -15,9 +15,9 @@
 			<div class="wrap">
 				<div class="nav_list">
 					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li><a href="contact.html">Sitemap</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="contact.php">Sitemap</a></li>
+						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 					<div class="account_desc">
@@ -31,7 +31,7 @@
   	  		<div class="wrap">
 				<div class="header_top">
 					<div class="logo">
-						<a href="index.html"><img src="images/logo.png" alt="" /></a>
+						<a href="index.php"><img src="images/logo.png" alt="" /></a>
 					</div>
 						<div class="header_top_right">
 						  <div class="cart">
@@ -82,7 +82,7 @@
    	 <div class="wrap">
    	 	<div class="content_top">
     		<div class="back-links">
-    		<p><a href="index.html">Home</a> &gt;&gt;&gt;&gt; <a href="#" class="active">English</a></p>
+    		<p><a href="index.php">Home</a> &gt;&gt;&gt;&gt; <a href="#" class="active">English</a></p>
     	    </div>
     		<div class="clear"></div>
     	</div>
@@ -135,10 +135,10 @@
 					<h2>Specials</h2>
 					 	<div class="special_movies">
 					 	   <div class="movie_poster">
-					 		  <a href="preview.html"><img src="images/end-game.jpg" alt="" /></a>
+					 		  <a href="preview.php"><img src="images/end-game.jpg" alt="" /></a>
 					 		 </div>
 					 		   <div class="movie_desc">
-							    <h3><a href="preview.html">End Game</a></h3>
+							    <h3><a href="preview.php">End Game</a></h3>
 								   <p><span>$620.87</span> &nbsp; $500.35</p>
 								     <span><a href="#">Add to Cart</a></span>
 								 </div>
@@ -146,10 +146,10 @@
 					 		</div>	
 					 		<div class="special_movies">
 					 	   <div class="movie_poster">
-					 		  <a href="preview.html"><img src="images/Coraline.jpg" alt="" /></a>
+					 		  <a href="preview.php"><img src="images/Coraline.jpg" alt="" /></a>
 					 		 </div>
 					 		   <div class="movie_desc">
-							    <h3><a href="preview.html">Coraline</a></h3>
+							    <h3><a href="preview.php">Coraline</a></h3>
 								   <p><span>$620.87</span> &nbsp; $500.35</p>
 								     <span><a href="#">Add to Cart</a></span>
 								 </div>
@@ -157,10 +157,10 @@
 					 		</div>	
 					 		<div class="special_movies">
 					 	   <div class="movie_poster">
-					 		  <a href="preview.html"><img src="images/Eclipse.jpg" alt="" /></a>
+					 		  <a href="preview.php"><img src="images/Eclipse.jpg" alt="" /></a>
 					 		 </div>
 					 		   <div class="movie_desc">
-							    <h3><a href="preview.html">Eclipse</a></h3>
+							    <h3><a href="preview.php">Eclipse</a></h3>
 								   <p><span>$620.87</span> &nbsp; $500.35</p>
 								     <span><a href="#">Add to Cart</a></span>
 								 </div>
@@ -168,10 +168,10 @@
 					 		</div>	
 					 		<div class="special_movies">
 					 	   <div class="movie_poster">
-					 		  <a href="preview.html"><img src="images/Priest.jpg" alt="" /></a>
+					 		  <a href="preview.php"><img src="images/Priest.jpg" alt="" /></a>
 					 		 </div>
 					 		   <div class="movie_desc">
-							    <h3><a href="preview.html">Priest 3D</a></h3>
+							    <h3><a href="preview.php">Priest 3D</a></h3>
 								   <p><span>$620.87</span> &nbsp; $500.35</p>
 								     <span><a href="#">Add to Cart</a></span>
 								 </div>
@@ -179,10 +179,10 @@
 					 		</div>	
 					 		<div class="special_movies">
 					 	    <div class="movie_poster">
-					 		  <a href="preview.html"><img src="images/Sorority_Wars.jpg" alt="" /></a>
+					 		  <a href="preview.php"><img src="images/Sorority_Wars.jpg" alt="" /></a>
 					 		 </div>
 					 		   <div class="movie_desc">
-							    <h3><a href="preview.html">Sorority Wars</a></h3>
+							    <h3><a href="preview.php">Sorority Wars</a></h3>
 								   <p><span>$620.87</span> &nbsp; $500.35</p>
 								     <span><a href="#">Add to Cart</a></span>
 								 </div>
@@ -202,7 +202,7 @@
 						<li><a href="#">Customer Service</a></li>
 						<li><a href="#">Advanced Search</a></li>
 						<li><a href="#">Orders and Returns</a></li>
-						<li><a href="contact.html">Contact Us</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</div>
 				<div class="col_1_of_4 span_1_of_4">
@@ -211,18 +211,18 @@
 						<li><a href="#">About Us</a></li>
 						<li><a href="#">Customer Service</a></li>
 						<li><a href="#">Privacy Policy</a></li>
-						<li><a href="contact.html">Site Map</a></li>
+						<li><a href="contact.php">Site Map</a></li>
 						<li><a href="#">Search Terms</a></li>
 						</ul>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<h4>My account</h4>
 						<ul>
-							<li><a href="contact.html">Sign In</a></li>
-							<li><a href="index.html">View Cart</a></li>
+							<li><a href="contact.php">Sign In</a></li>
+							<li><a href="index.php">View Cart</a></li>
 							<li><a href="#">My Wishlist</a></li>
 							<li><a href="#">Track My Order</a></li>
-							<li><a href="contact.html">Help</a></li>
+							<li><a href="contact.php">Help</a></li>
 						</ul>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">

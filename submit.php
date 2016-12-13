@@ -15,9 +15,9 @@
 			<div class="wrap">
 				<div class="nav_list">
 					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li><a href="contact.html">Sitemap</a></li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="contact.php">Sitemap</a></li>
+						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 					<div class="account_desc">
@@ -28,7 +28,7 @@
   	  		<div class="wrap">
 				<div class="header_top">
 					<div class="logo">
-						<a href="index.html"><img src="images/logo.png" alt="" /></a>
+						<a href="index.php"><img src="images/logo.png" alt="" /></a>
 					</div>
 						<div class="header_top_right">
 						  <div class="cart">
@@ -80,7 +80,7 @@
      <div class="content">
      	<div class="content_top">
     		<div class="back-links">
-    		<p><a href="index.html">Home</a> &gt;&gt;&gt;&gt; <a href="#" class="active">Contact</a></p>
+    		<p><a href="index.php">Home</a> &gt;&gt;&gt;&gt; <a href="#" class="active">Contact</a></p>
     	    </div>
     		<div class="clear"></div>
     	</div>
@@ -159,7 +159,7 @@
 						<li><a href="#">Customer Service</a></li>
 						<li><a href="#">Advanced Search</a></li>
 						<li><a href="#">Orders and Returns</a></li>
-						<li><a href="contact.html">Contact Us</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</div>
 				<div class="col_1_of_4 span_1_of_4">
@@ -168,18 +168,18 @@
 						<li><a href="#">About Us</a></li>
 						<li><a href="#">Customer Service</a></li>
 						<li><a href="#">Privacy Policy</a></li>
-						<li><a href="contact.html">Site Map</a></li>
+						<li><a href="contact.php">Site Map</a></li>
 						<li><a href="#">Search Terms</a></li>
 						</ul>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<h4>My account</h4>
 						<ul>
-							<li><a href="contact.html">Sign In</a></li>
-							<li><a href="index.html">View Cart</a></li>
+							<li><a href="contact.php">Sign In</a></li>
+							<li><a href="index.php">View Cart</a></li>
 							<li><a href="#">My Wishlist</a></li>
 							<li><a href="#">Track My Order</a></li>
-							<li><a href="contact.html">Help</a></li>
+							<li><a href="contact.php">Help</a></li>
 						</ul>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
